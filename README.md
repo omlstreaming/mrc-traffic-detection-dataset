@@ -9,6 +9,8 @@ anonymized_car_plate,startDate,startTime,endDate,endTime,leaving_edge,intersecti
 ```
 All data files are sorted based on the `anonymized_car_plate` and on the `startTime`.
 
+[![DOI](https://zenodo.org/badge/332014218.svg)](https://zenodo.org/badge/latestdoi/332014218)
+
 ------------------------------------
 
 ## RM and RD
